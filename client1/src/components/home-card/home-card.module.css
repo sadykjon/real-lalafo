@@ -1,0 +1,10 @@
+
+.card_content{
+    padding: 0;
+    display: flex;
+    margin: 0;
+    justify-content: space-around;
+}
+.price{
+    margin-left: 20px;
+}
